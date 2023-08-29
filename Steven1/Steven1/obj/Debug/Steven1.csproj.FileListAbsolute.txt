@@ -1,0 +1,7 @@
+C:\Users\DELL 5580\source\repos\Steven1\Steven1\bin\Debug\Steven1.exe.config
+C:\Users\DELL 5580\source\repos\Steven1\Steven1\bin\Debug\Steven1.exe
+C:\Users\DELL 5580\source\repos\Steven1\Steven1\bin\Debug\Steven1.pdb
+C:\Users\DELL 5580\source\repos\Steven1\Steven1\obj\Debug\Steven1.csproj.AssemblyReference.cache
+C:\Users\DELL 5580\source\repos\Steven1\Steven1\obj\Debug\Steven1.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\source\repos\Steven1\Steven1\obj\Debug\Steven1.exe
+C:\Users\DELL 5580\source\repos\Steven1\Steven1\obj\Debug\Steven1.pdb

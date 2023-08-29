@@ -1,0 +1,7 @@
+C:\Users\DELL 5580\source\repos\peneeee\peneeee\obj\Debug\peneeee.csproj.AssemblyReference.cache
+C:\Users\DELL 5580\source\repos\peneeee\peneeee\obj\Debug\peneeee.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\source\repos\peneeee\peneeee\bin\Debug\peneeee.exe.config
+C:\Users\DELL 5580\source\repos\peneeee\peneeee\bin\Debug\peneeee.exe
+C:\Users\DELL 5580\source\repos\peneeee\peneeee\bin\Debug\peneeee.pdb
+C:\Users\DELL 5580\source\repos\peneeee\peneeee\obj\Debug\peneeee.exe
+C:\Users\DELL 5580\source\repos\peneeee\peneeee\obj\Debug\peneeee.pdb

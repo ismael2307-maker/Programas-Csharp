@@ -1,0 +1,7 @@
+C:\Users\DELL 5580\source\repos\Actividad13\Actividad13\bin\Debug\Actividad13.exe.config
+C:\Users\DELL 5580\source\repos\Actividad13\Actividad13\bin\Debug\Actividad13.exe
+C:\Users\DELL 5580\source\repos\Actividad13\Actividad13\bin\Debug\Actividad13.pdb
+C:\Users\DELL 5580\source\repos\Actividad13\Actividad13\obj\Debug\Actividad13.csproj.AssemblyReference.cache
+C:\Users\DELL 5580\source\repos\Actividad13\Actividad13\obj\Debug\Actividad13.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\source\repos\Actividad13\Actividad13\obj\Debug\Actividad13.exe
+C:\Users\DELL 5580\source\repos\Actividad13\Actividad13\obj\Debug\Actividad13.pdb

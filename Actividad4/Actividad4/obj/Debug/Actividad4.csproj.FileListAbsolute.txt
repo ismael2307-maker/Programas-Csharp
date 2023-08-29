@@ -1,0 +1,7 @@
+C:\Users\DELL 5580\source\repos\Actividad4\Actividad4\bin\Debug\Actividad4.exe.config
+C:\Users\DELL 5580\source\repos\Actividad4\Actividad4\bin\Debug\Actividad4.exe
+C:\Users\DELL 5580\source\repos\Actividad4\Actividad4\bin\Debug\Actividad4.pdb
+C:\Users\DELL 5580\source\repos\Actividad4\Actividad4\obj\Debug\Actividad4.csproj.AssemblyReference.cache
+C:\Users\DELL 5580\source\repos\Actividad4\Actividad4\obj\Debug\Actividad4.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\source\repos\Actividad4\Actividad4\obj\Debug\Actividad4.exe
+C:\Users\DELL 5580\source\repos\Actividad4\Actividad4\obj\Debug\Actividad4.pdb

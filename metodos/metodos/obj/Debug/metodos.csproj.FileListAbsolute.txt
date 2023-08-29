@@ -1,0 +1,7 @@
+C:\Users\DELL 5580\source\repos\metodos\metodos\bin\Debug\metodos.exe.config
+C:\Users\DELL 5580\source\repos\metodos\metodos\bin\Debug\metodos.exe
+C:\Users\DELL 5580\source\repos\metodos\metodos\bin\Debug\metodos.pdb
+C:\Users\DELL 5580\source\repos\metodos\metodos\obj\Debug\metodos.csproj.AssemblyReference.cache
+C:\Users\DELL 5580\source\repos\metodos\metodos\obj\Debug\metodos.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\source\repos\metodos\metodos\obj\Debug\metodos.exe
+C:\Users\DELL 5580\source\repos\metodos\metodos\obj\Debug\metodos.pdb
